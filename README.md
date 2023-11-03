@@ -12,6 +12,7 @@ Part 2.
 <img width="520" alt="image" src="https://github.com/alexsuakim/Maze-escape-Algorithms/assets/99973140/3a6cbdf0-92bd-49ec-a47e-2c1fcbda9ad7">
 <img width="529" alt="image" src="https://github.com/alexsuakim/Maze-escape-Algorithms/assets/99973140/1e8498b2-513a-498d-ab1c-9e2a5ee75649">
 <img width="486" alt="image" src="https://github.com/alexsuakim/Maze-escape-Algorithms/assets/99973140/5ffbdf12-88d7-4e27-8347-c7cc209c0bde">
+
 <img width="460" alt="image" src="https://github.com/alexsuakim/Maze-escape-Algorithms/assets/99973140/7e0ef7e0-8dd7-41c5-80f7-226865682c09">
 
 Part 3.
